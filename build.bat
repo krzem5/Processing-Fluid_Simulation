@@ -1,1 +1,3 @@
-start "" "projects/Processing-Fluid_Simulation/index/index.pde"
+@echo off
+cls
+python build.py %*
